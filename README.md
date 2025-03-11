@@ -1,0 +1,2 @@
+# Curiously
+Cs course
